@@ -10,6 +10,8 @@ and a lot of more features to make my favorite and fast text editor.
 ![screenshot-1](./.screenshots/1.png)
 ![screenshot-2](./.screenshots/2.png)
 
+> NOTE: The fonts showed in the screenshots are OperatorMono with tmux
+
 ## Getting started
 
 First clone this repo, and activate the nvim config:
@@ -62,9 +64,7 @@ the line 31.
 
 Change the settings as you want and enjoy
 
-## Behaviour guide
-
-My keybindings are:
+## Keybindings
 
 - To change to normal mode in insert mode use: jk, kk, kj, jj.
 - Use M-hjkl to resize a splited window, and use C-hjkl to change focus to a splited window.
