@@ -1,0 +1,6 @@
+{
+  "python.analysis.diagnosticMode": "workspace",
+  "python.pythonPath": "/home/naypher/.binaries/python.sh",
+  "explorer.icon.enableVimDevicons": true,
+  "clangd.path": "/home/naypher/.ide/clangd/bin/clangd"
+}
