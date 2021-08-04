@@ -6,8 +6,9 @@ This is my nvim-dotfiles.
 
 ![screenshot-1](./.screenshots/1.png)
 ![screenshot-2](./.screenshots/2.png)
+![screenshot-3](./.screenshots/3.png)
 
-> NOTE: The fonts showed in the screenshots are OperatorMono with tmux
+> NOTE: The fonts showed in the screenshots are OperatorMono and Fantasque iCursive Op with tmux
 
 ## Getting started
 
