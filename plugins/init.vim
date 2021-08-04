@@ -9,10 +9,13 @@
 call plug#begin('~/.config/nvim/plugged')
 " {{{ nerdtree
 Plug 'preservim/nerdtree' |
-    \ Plug 'Xuruanp/nerdtree-git-plugin'
+    \ Plug 'Xuyuanp/nerdtree-git-plugin'
 " }}}
 " {{{ appeareance
+" {{{ themes
 Plug 'sainnhe/gruvbox-material'
+Plug 'sainnhe/edge'
+" }}}
 " {{{ airline
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
