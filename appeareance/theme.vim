@@ -15,3 +15,6 @@ source $HOME/.config/nvim/appeareance/themes/edge-aura.vim
 " {{{ edge light
 " source $HOME/.config/nvim/appeareance/themes/edge-light.vim
 " }}}
+" {{{ everforest dark
+" source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
+" }}}
