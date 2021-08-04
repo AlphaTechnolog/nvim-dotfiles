@@ -53,4 +53,9 @@ Plug 'mattn/emmet-vim'
 Plug 'chrisbra/Colorizer'
 " }}}
 " }}}
+" {{{ misc
+" {{{ manpager
+Plug 'lambdalisue/vim-manpager'
+" }}}
+" }}}
 call plug#end()
