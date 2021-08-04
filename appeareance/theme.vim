@@ -10,8 +10,8 @@
 source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
 " }}}
 " {{{ edge-aura
-source $HOME/.config/nvim/appeareance/themes/edge-aura.vim
+" source $HOME/.config/nvim/appeareance/themes/edge-aura.vim
 " }}}
 " {{{ edge light
-" source $HOME/.config/nvim/appeareance/themes/edge-light.vim
+source $HOME/.config/nvim/appeareance/themes/edge-light.vim
 " }}}
