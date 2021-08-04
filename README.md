@@ -2,9 +2,6 @@
 
 This is my nvim-dotfiles.
 
-This config use the gruvbox-material theme (by [sainnhe](https://github.com/sainnhe))
-and a lot of more features to make my favorite and fast text editor.
-
 ## Screenshots
 
 ![screenshot-1](./.screenshots/1.png)
@@ -37,7 +34,6 @@ Restart nvim and the config was applied.
 
 ## Features
 
-- Gruvbox Material Hard Mix - as theme
 - Airline - as statusbar
 - coc (enable it, see bottom for activate) - for autocomplete
 - emmet-vim - for autocomplete
@@ -71,3 +67,17 @@ Change the settings as you want and enjoy
 - Use C-s to save the file and C-q to save and exit.
 - Use C-b to close a buffer
 - Use TAB and S-TAB to navigate between buffers in normal mode
+
+## Selecting a theme
+
+Actually I have two themes configured:
+
+- Gruvbox Material Mix Hard
+- Edge Aura
+
+If you select the main branch you don't have a selected theme,
+to switch to gruvbox material mix hard or edge aura, select one of
+this branchs:
+
+- gruvbox-mix-hard
+- edge
