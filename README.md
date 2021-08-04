@@ -48,6 +48,7 @@ Restart nvim and the config was applied.
 - vim-autopairs - for coding autopair
 - vim-signify - for git integration
 - Colorizer - for hex and css colors highlighting
+- vim-manpager - for use vim as man pager
 
 ## Enabling coc
 
