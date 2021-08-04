@@ -13,5 +13,5 @@
 " source $HOME/.config/nvim/appeareance/themes/edge-aura.vim
 " }}}
 " {{{ edge light
-source $HOME/.config/nvim/appeareance/themes/edge-light.vim
+" source $HOME/.config/nvim/appeareance/themes/edge-light.vim
 " }}}
