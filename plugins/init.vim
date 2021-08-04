@@ -15,6 +15,7 @@ Plug 'preservim/nerdtree' |
 " {{{ themes
 Plug 'sainnhe/gruvbox-material'
 Plug 'sainnhe/edge'
+Plug 'sainnhe/everforest'
 " }}}
 " {{{ airline
 Plug 'vim-airline/vim-airline'

@@ -1,6 +1,6 @@
 " =============================================================================
 " URL: https://github.com/AlphaTechnolog/nvim-dotfiles.git
-" Filename: appeareance/themes/edge-light.vim
+" Filename: appeareance/themes/everforest-dark.vim
 " Author: Gabriel Guerra @AlphaTechnolog
 " Email: gfranklings@gmail.com
 " License: MIT
@@ -10,11 +10,12 @@ if has('termguicolors')
     set termguicolors
 endif
 
-let g:edge_disable_italic_comment = 1
-let g:edge_enable_italic = 1
+let g:everforest_disable_italic_comment = 1
+let g:everforest_enable_italic = 1
 
-set background=light
+set background=dark
 
-let g:airline_theme = 'edge'
+let g:airline_theme = 'everforest'
+let g:everforest_style = 'aura'
 
-colorscheme edge
+colorscheme everforest
