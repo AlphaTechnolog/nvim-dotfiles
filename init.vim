@@ -21,6 +21,9 @@ source $HOME/.config/nvim/autocommands/init.vim
 " {{{ nerdtree
 source $HOME/.config/nvim/plugins/configs/nerdtree.vim
 " }}}
+" {{{ tmuxline
+source $HOME/.config/nvim/plugins/configs/tmuxline.vim
+" }}}
 " {{{keybindings
 source $HOME/.config/nvim/keybindings/init.vim
 " }}}
