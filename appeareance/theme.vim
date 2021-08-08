@@ -18,3 +18,6 @@ source $HOME/.config/nvim/appeareance/themes/edge-light.vim
 " {{{ everforest dark
 " source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
 " }}}
+" {{{ material
+" source $HOME/.config/nvim/appeareance/themes/material.vim
+" }}}
