@@ -78,6 +78,7 @@ Actually I have two themes configured:
 - Edge Aura
 - Edge Light
 - Everforest Dark
+- Material Theme (as default look)
 
 If you select the main branch you don't have a selected theme,
 to switch to gruvbox material mix hard or edge aura, select one of
@@ -87,3 +88,4 @@ this branchs:
 - edge
 - edge-light
 - everforest-dark
+- material
