@@ -17,6 +17,7 @@ Plug 'sainnhe/gruvbox-material'
 Plug 'sainnhe/edge'
 Plug 'sainnhe/everforest'
 Plug 'kaicataldo/material.vim'
+Plug 'joshdick/onedark.vim'
 " }}}
 " {{{ airline
 Plug 'vim-airline/vim-airline'
