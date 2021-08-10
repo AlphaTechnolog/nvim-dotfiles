@@ -18,6 +18,7 @@ Plug 'sainnhe/edge'
 Plug 'sainnhe/everforest'
 Plug 'kaicataldo/material.vim'
 Plug 'joshdick/onedark.vim'
+Plug 'dylanaraps/wal.vim'
 " }}}
 " {{{ airline
 Plug 'vim-airline/vim-airline'
