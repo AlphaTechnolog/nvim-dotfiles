@@ -25,5 +25,5 @@
 " source $HOME/.config/nvim/appeareance/themes/onedark.vim
 " }}}
 " {{{ wal
-source $HOME/.config/nvim/appeareance/themes/wal.vim
+" source $HOME/.config/nvim/appeareance/themes/wal.vim
 " }}}
