@@ -24,3 +24,6 @@ source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
 " {{{ onedark
 " source $HOME/.config/nvim/appeareance/themes/onedark.vim
 " }}}
+" {{{ wal
+source $HOME/.config/nvim/appeareance/themes/wal.vim
+" }}}

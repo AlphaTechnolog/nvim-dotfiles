@@ -91,3 +91,7 @@ this branchs:
 - everforest-dark
 - material
 - onedark
+
+### Pywal
+
+If you use pywal you must use the branch: `wal`
