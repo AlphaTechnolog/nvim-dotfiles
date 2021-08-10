@@ -16,7 +16,7 @@ source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
 " source $HOME/.config/nvim/appeareance/themes/edge-light.vim
 " }}}
 " {{{ everforest dark
-" source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
+source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
 " }}}
 " {{{ material
 " source $HOME/.config/nvim/appeareance/themes/material.vim
@@ -25,5 +25,5 @@ source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
 " source $HOME/.config/nvim/appeareance/themes/onedark.vim
 " }}}
 " {{{ wal
-source $HOME/.config/nvim/appeareance/themes/wal.vim
+" source $HOME/.config/nvim/appeareance/themes/wal.vim
 " }}}
