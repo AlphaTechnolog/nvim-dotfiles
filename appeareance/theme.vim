@@ -7,7 +7,7 @@
 " =============================================================================
 
 " {{{ gruvbox-mix-hard
-source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
+" source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
 " }}}
 " {{{ edge-aura
 " source $HOME/.config/nvim/appeareance/themes/edge-aura.vim
@@ -26,4 +26,7 @@ source $HOME/.config/nvim/appeareance/themes/everforest-dark.vim
 " }}}
 " {{{ wal
 " source $HOME/.config/nvim/appeareance/themes/wal.vim
+" }}}
+" {{{ dracula
+" source $HOME/.config/nvim/appeareance/themes/dracula.vim
 " }}}
