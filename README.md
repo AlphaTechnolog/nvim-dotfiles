@@ -81,6 +81,7 @@ Actually I have two themes configured:
 - Material Theme (as default look)
 - Onedark
 - Dracula Theme
+- Horizon Dark
 
 If you select the main branch you don't have a selected theme,
 to switch to gruvbox material mix hard or edge aura, select one of
@@ -93,6 +94,7 @@ this branchs:
 - material
 - onedark
 - dracula
+- horizon
 
 ### Pywal
 
