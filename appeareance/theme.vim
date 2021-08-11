@@ -27,3 +27,6 @@
 " {{{ wal
 " source $HOME/.config/nvim/appeareance/themes/wal.vim
 " }}}
+" {{{ dracula
+" source $HOME/.config/nvim/appeareance/themes/dracula.vim
+" }}}

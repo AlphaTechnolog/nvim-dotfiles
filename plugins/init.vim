@@ -19,6 +19,7 @@ Plug 'sainnhe/everforest'
 Plug 'kaicataldo/material.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'dylanaraps/wal.vim'
+Plug 'dracula/vim', { 'as': 'dracula' }
 " }}}
 " {{{ airline
 Plug 'vim-airline/vim-airline'
