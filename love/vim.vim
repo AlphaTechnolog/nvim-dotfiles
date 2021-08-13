@@ -8,7 +8,6 @@
 
 set ruler
 set colorcolumn=80
-set relativenumber
 set nu
 set autochdir
 set noshowmode
