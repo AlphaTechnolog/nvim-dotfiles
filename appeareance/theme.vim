@@ -30,3 +30,6 @@ source $HOME/.config/nvim/appeareance/themes/gruvbox-mix-hard.vim
 " {{{ dracula
 " source $HOME/.config/nvim/appeareance/themes/dracula.vim
 " }}}
+" {{{ horizon
+" source $HOME/.config/nvim/appeareance/themes/horizon-dark.vim
+" }}}
